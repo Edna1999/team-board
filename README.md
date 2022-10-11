@@ -7,5 +7,3 @@ Once node index.js is run in the terminal a question asking for the type of empl
 ![screenshot of team board](./Assets/Screen%20Shot%202022-10-11%20at%205.21.03%20PM.png)
 
 
-![screen recording of team board](https://drive.google.com/file/d/1_lk6rdo0Lz9PFB2CPxCbFg30d9G2uqlB/view)
-
