@@ -42,4 +42,4 @@ Once node index.js is run in the terminal a question asking for the type of empl
 
   ## Tests
 
-  No tests have been created yet for this project
+ This app was build with test driven development to test it run an 'npm run test'.
