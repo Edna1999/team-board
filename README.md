@@ -22,7 +22,7 @@ Once node index.js is run in the terminal a question asking for the type of empl
 
   ## Installation
 
-  To install this project, download the files from my repository at https://github.com/Edna1999/team-board. Run an NPM install in the console to load in the correct packages, run an 'npm start' to start the application! Make the entries necessary and once the html file is created open it in the browser to see your team board.
+  To install this project, download the files from my repository at https://github.com/Edna1999/team-board. Run an NPM install in the console to load in the correct packages, run an 'index.js' to start the application! Make the entries necessary and once the html file is created open it in the browser to see your team board.
 
   You can also visit the walkthrough video via the following link: https://watch.screencastify.com/v/JqSxw0eP4WUIyQhBifeC
 
