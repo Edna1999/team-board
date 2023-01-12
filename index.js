@@ -75,9 +75,6 @@ const getTeam = async() => {
     const endFile = endOfHtml();
 
    
-
-
-
       if (answers.employee === 'Manager'){
            
     
@@ -85,13 +82,6 @@ const getTeam = async() => {
 
      }
 
-     if( answers.newEmployee === 'Manager'){
-
-
-
-      team.push(new Manager(answers.name, answers.id, answers.email, answers.officeNum))
-
-     }
           
       if (answers.employee  === 'Engineer'){
 
@@ -100,15 +90,7 @@ const getTeam = async() => {
       team.push(new Engineer(answers.name, answers.id, answers.email, answers.github))
      }
 
-          
-     if( answers.newEmployee === 'Engineer'){
-
-
-      team.push(new Engineer(answers.name, answers.id, answers.email, answers.github))
-
-      
-     }
-        
+                  
       if (answers.employee === 'Intern') {
 
  
@@ -116,15 +98,7 @@ const getTeam = async() => {
 
 
     }
-
-      if( answers.newEmployee === 'Intern'){
-
-    
-      team.push(new Intern(answers.name, answers.id, answers.email, answers.school))
-
-        
-      }
-          
+ 
         
       if(answers.members === false){
         page.push(htmlFile)
